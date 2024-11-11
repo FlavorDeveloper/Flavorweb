@@ -118,10 +118,6 @@ a {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.list-link:hover{
-    background-color: var(--background-color-2);
-}
-
 .nav-toggle{
     border: none;
     background: none;
